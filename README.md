@@ -11,7 +11,7 @@ Create a zump object with a configuration.<br><br>
   style:'margin-top:{v}px'<br>
 });<br>
 <br>
-<h3>Properties</h3><br>
+<h3>Properties</h3>
 <b>target:</b> CSS path selector query defination to find target elements to animate. <i> Default:null</i> <br>
 <b>style:</b> Target style propery template to manuplate. Must contain <b>{v}</b> mark up on numerical part that will   be replaced automatically. <i> Default:null</i><br>
 <b>delay:</b> Speed of animation in miliseconds. Lower is faster.  <i> Default20</i><br>
@@ -21,7 +21,7 @@ Create a zump object with a configuration.<br><br>
 <b>loop:</b> Animation will continue until cancel  <i> Default:false</i>
 <b>focus:</b> Page will scroll to target element when animation started.  <i> Default:true</i><br>
 <br>
-<h3>Methods</h3><br>
+<h3>Methods</h3>
 <b>Play():</b>  Starts animation. Will be called on constructor. <br>
  <b>Stop():</b> Stops animation any time. <br>
  <b>Focus():</b> Scroll to target dom element <br>
