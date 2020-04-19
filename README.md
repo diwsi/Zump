@@ -1,6 +1,7 @@
 Zump.js is a tiny javascript code  to animate CSS properties of any dom element to garb user's attention.
 #
-                               <a href="https://diwsi.github.io/zump/index.html">  Click Here to View Online Demo! </a>
+<h3>Demo</h3>
+https://diwsi.github.io/zump/index.html
 <h3>Basic Usage</h3>
 Create a zump object with a configuration.<br><br>
  var z = new Zump({<br>
